@@ -1,4 +1,16 @@
+# 👋 Hey there, I'm Charls Rebaja  
 
+💻 **Full Stack Developer | Tech Enthusiast | Problem Solver**  
+I’m passionate about crafting full-stack web and mobile applications that are both functional and visually engaging. I enjoy transforming ideas into code and continuously learning new technologies to enhance my development skills.
+
+## 🚀 About Me
+⚙️ I’m a **Full Stack Developer** specializing in **Next.js** for frontend and **PHP/MySQL or PostgreSQL** for backend
+ 💡 Experienced in building dynamic, scalable, and SEO-friendly web apps  
+📱 Also developing **mobile apps** using **Flutter**
+🌱 Currently exploring **IoT Development** with Python & Arduino
+🧠 Passionate about system architecture, UI/UX, and efficient database design
+⚡ Fun fact: I believe great apps come from clean code and clear design
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/choy.rebaja) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charls-rebaja-02b366377/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charlsrebaja09@gmail.com) 
 
